@@ -1,10 +1,10 @@
-### EC523_MusicGeneration
+# EC523_MusicGeneration
 Final project for Spring 2023 EC523 involving music generation task using WaveNet model
 
-##### Team members: 
+### Team members: 
 
-Sally Shin
+Sally Shin, Yuke Li, William Krska
 
-Yuke Li
+### Link to Google Drive
 
-William Krska
+https://drive.google.com/drive/u/1/folders/0AEwRQcK0vvTPUk9PVA
